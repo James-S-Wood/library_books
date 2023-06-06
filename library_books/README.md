@@ -10,3 +10,15 @@ To run the application, follow these steps:
 2. Clone this repository to your local machine or download the source code.
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the following command to build the application:
+5. Run the following command to start the application:
+6. Follow the on-screen instructions to interact with the Library System.
+
+## Features
+
+- Add Book: Allows you to add a book to the library system by entering its title and author.
+- Display Books: Displays a list of all books in the library.
+- Search Books: Allows you to search for books by entering a search term, which is matched against book titles and authors.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
